@@ -1,0 +1,1 @@
+df_encoded.to_csv("adult_processed.csv", index=False)
